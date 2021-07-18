@@ -1,20 +1,20 @@
 ## 👋 Hi 
--I’m @eugeneMaximovHub. I`ma 24 yers old
+I’m @eugeneMaximovHub. I`ma 24 yers old
 
 # 👀 
--really interested in frond-end right now
+really interested in frond-end right now
 
 # 🤓 
--I’m currently learning React + TS, React Native
+I’m currently learning React + TS, React Native
 
 # ✨ 
--I’m looking to collaborate on people who needs young blood, pure mind
+I’m looking to collaborate on people who needs young blood, pure mind
 
 # 😍
--Right now I learn more about REST API
+Right now I learn more about REST API
 
 # ✅ 
--You can reach me on my e-mail: evgeniq.makcimov@yandex.ru<br>
+You can reach me on my e-mail: evgeniq.makcimov@yandex.ru<br>
   &gt;Nice to meet you. See you soon&lt;
   
 <!---
