@@ -1,4 +1,4 @@
-## 👋 Hi I’m @eugeneMaximovHub. I`ma 24 yers old
+## 👋 Hi 
 
 # 👀 really interested in frond-end right now
 
