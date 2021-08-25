@@ -1,12 +1,4 @@
-# 👋 Hi 
-
-## 👀 really interested in frond-end right now
-
-## 🤓 I’m currently learning React and React Native
-
-## ✨ I’m looking to collaborate on people who needs young blood, pure mind
-
-## 😍Right now I learn more about REST API
+# 👋 Hi
 
 ## ✅ You can reach me on my e-mail: evgeniq.makcimov@yandex.ru<br>
   &gt;Nice to meet you. See you soon&lt;
