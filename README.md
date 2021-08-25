@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋 Hi and welcome
 
 ## ✅ You can reach me on my e-mail: evgeniq.makcimov@yandex.ru<br>
   &gt;Nice to meet you. See you soon&lt;
